@@ -1,20 +1,9 @@
-# Hello 👋
-
 Welcome to my GitHub profile!
-
 ## 🌍 Technologies I Use
-
 - **Programming Languages:**
-  - PHP
-  - JavaScript
-  - CSS
-  - HTML
-
+  - PHP, JavaScript, CSS, HTML
 - **APIs and Tools:**
-  - OpenAI API
-  - Anthropic API
-  - Google Gemini API
-
+  - OpenAI API, Anthropic API, Google Gemini API
 
 ## ✨ Featured Projects
 - [OrionChat](https://github.com/EliasPereirah/OrionChat): Chat interface for use with OpenAI API, Google Gemini, Anthropic, Groq Inc., and Cerebras
